@@ -13,9 +13,9 @@ _Talent is currently in development. Be patient, it will be awesome!_
 
 |   Italian  |                                    English                                      |
 | :--------- | :-----------------------------------------------------------------------------: |
-| to come up |                 [Exercise your logical mind](EspritLogique.md)                  |
-| to come up |            [Non-violent communication](CommunicationNonViolente.md)            |
-| to come up |              [Know how to formulate a request for help](ObtenirAide.md)               |
+| to come up |                 [Exercise your logical mind](./en/EspritLogique.md)             |
+| to come up |            [Non-violent communication](./en/CommunicationNonViolente.md)        |
+| to come up |              [Know how to formulate a request for help](./en/ObtenirAide.md)    |
 
 ### How to prepare yourself professionally
 
