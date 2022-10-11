@@ -6,8 +6,8 @@
 
 ## Welcome to the tools box of the PDC -  blablabla
 
-**Talent** is the professionnal plateform made by the PDC that helps the padawan to advance to their profesional life.
-_Talent is currently in development. Be patient, it will be awesome!_
+**PDC_Org** is the professionnal plateform made by the PDC that helps the padawan to advance to their profesional life.
+_PDC_Org is currently in development. Be patient, it will be awesome!_
 
 ### Ressources to become a better dev
 
