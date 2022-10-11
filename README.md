@@ -17,17 +17,6 @@ _Talent is currently in development. Be patient, it will be awesome!_
 | to come up |            [Non-violent communication](CommunicationNonViolente.md)            |
 | to come up |              [Know how to formulate a request for help](ObtenirAide.md)               |
 
-### Other job you could have inside 42Roma
-
-You feel inside you the motivation to become a project manager, a communication asset for your next company? During your training at BeCode, you can participate as a developer but not only...
-
-| Italian                                                       |                         English                          |
-| :------------------------------------------------------------ | :------------------------------------------------------: |
-| [Wanna be an official writer on the blog?](BlogBecode-eng.md) | [Comment participer au blog de BeCode](BlogBeCode-fr.md) |
-| Wanna participate in a client project?                        |       Tu souhaites participer à un projet client ?       |
-| Wanna manage BeCode's client projects?                        |      Tu veux gérer les projets clients de BeCode ?       |
-| Wanna be in charge of the monthly newsletter?                 |              Tu veux gérer la newsletter ?               |
-
 ### How to prepare yourself professionally
 
 | Italian                                                              |                                                      English                                                       |
