@@ -22,6 +22,6 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 
 ## Sources
 
-- [15 good practices (FR)](https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html)
+- [15 goods practices](./goods_pratices.md)
 - [LinkedIn network](https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=en)
 - [Get the most out of LinkedIn (FR)](http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf)
