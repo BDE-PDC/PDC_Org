@@ -24,7 +24,7 @@ _PDC_Org is currently in development. Be patient, it will be awesome!_
 | to come up                                                           |                       [Tips and tricks to get a quality LinkedIn profile](./en/LinkedIn-eng.md)                    |
 | to come up                                                           |                   [How to insert badges on LinkedIn profile](./en/certified-skills-eng.md)                         |
 | to come up                                                           |               [The after 42...](./en/after42.md) : training, internships, jobs, hiring assistance,...              |
-| to come up                                                           |                     [Prepare your application for an internship/job](preparersacandidature.md)                     |
+| to come up                                                           |                     [Prepare your application for an internship/job](./en/preparersacandidature.md)                     |
 | to come up                                                           |         [Discussion of rates/salaries](https://gist.github.com/pixeline/aaba236316e49084700b6add496c298c)          |
 
 ### BONUS
