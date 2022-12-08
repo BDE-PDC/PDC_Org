@@ -1,6 +1,6 @@
 # LinkedIn
 
-LinkedIn is a network with a mainly professional vocation. The most powerful concept behind LinkedIn is the ability to find the right people and the relationships you share with them. Start by creating your own network and also add the 42Roma team :) .
+LinkedIn is a network with a mainly professional vocation. The most powerful concept behind LinkedIn is the ability to find the right people and the relationships you share with them. Start by creating your own network and also add the 42Roma students and staff :).
 
 ## Tips and tricks to get a quality LinkedIn profile
 
@@ -10,7 +10,7 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 
 ### Office Staff
 
-- [Julio]()
+- [Giulio]()
 - [Alessandro](https://www.linkedin.com/in/alessandro-fiumicelli-a642ba182/)
 - [Aldo](https://www.linkedin.com/in/aldo-panzano-b2ab46161/)
 - [Giampiero](https://www.linkedin.com/in/giampiero-andrea-ruggiero-690489174/)

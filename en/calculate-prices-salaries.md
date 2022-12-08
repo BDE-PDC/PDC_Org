@@ -14,7 +14,7 @@ During a job interview, what is being sold are skills and qualities.
 Be careful not to forget that this is a mutual evaluation. It is not about begging, but about assessing whether collaboration would be interesting for both parties.
 
 ### Employee:
-Minimum salary for a junior web dev: 1350€ net/month
+Minimum salary for a junior web dev: ?€ net/month
 
 — Negotiate the whole contract, not just the salary
 — Take into account the possible extra-legal benefits (insurance, meal vouchers, telephone, company car, …), overtime, weekend work, …
